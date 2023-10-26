@@ -1,0 +1,5 @@
+let yosh = prompt("yoshini kirit")
+alert("siz "+( 2023-yosh)+"-yilda tugilgansiz")
+alert("3 yildan keyin " + (3 + +yosh)+ " yoshga kirasiz")
+let qari = prompt("siz nechi yoshda bogiz keladi")
+alert("unda siz yana " + (qari-yosh)+ "- yil kiritishiz kere")
